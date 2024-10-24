@@ -50,7 +50,7 @@ def desenhaJogadores(jogo):
 
 
 def getFont(size):  # retorna a fonte no tamanho desenhado
-    return pygame.font.Font("../fontes/SuperPixel-m2L8j.ttf", size)
+    return pygame.font.Font("fontes/SuperPixel-m2L8j.ttf", size)
 
 
 def reiniciaJogo(jogo):
