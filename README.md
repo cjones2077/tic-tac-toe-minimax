@@ -4,13 +4,13 @@ Este projeto é um jogo da velha desenvolvido utilizando a biblioteca Pygame. O 
 
 
 ## Índice
-- <a href="#funcionalidades">Funcionalidades do Projeto
-- <a href="#pré-requisitos">Pré-Requisitos do Projeto
-- <a href="#como-rodar-o-projeto">Como Rodar o Projeto
-- <a href="#como-jogar">Como Jogar
-- <a href="#controles">Controles
-- <a href="#estrutura-do-projeto">Estrutura do Projeto
-- <a href="#personalização">Personalização
+- <a href="#funcionalidades">Funcionalidades do Projeto</a>
+- <a href="#pré-requisitos">Pré-Requisitos do Projeto</a>
+- <a href="#como-rodar-o-projeto">Como Rodar o Projeto</a>
+- <a href="#como-jogar">Como Jogar</a>
+- <a href="#controles">Controles</a>
+- <a href="#estrutura-do-projeto">Estrutura do Projeto</a>
+- <a href="#personalização">Personalização</a>
 ## Funcionalidades
 
   - Modo Local: Dois jogadores humanos se enfrentam.
